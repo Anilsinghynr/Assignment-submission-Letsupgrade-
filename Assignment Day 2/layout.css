@@ -1,0 +1,41 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.section1{
+  background-color: grey;
+  width: 100%;
+  padding-top:20px;
+  padding-bottom:20px;
+  display:flex;
+  justify-content: space-around;
+}
+
+.div1{
+  height: 300px;
+  width: 15%;
+  background-color:red;
+}
+
+.section2{
+  background-color: black;
+  width: 100%;
+  margin-top: 10px;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+.div2{
+  height:300px;
+  width:20%;
+  background-color:grey;
+  display:inline-block;
+  margin-left:50px;
+}
+
+
+h1{
+  text-align:center;
+  color: red;
+}
